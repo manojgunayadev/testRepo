@@ -4,11 +4,11 @@
   <parent>
     <groupId>com.mediation.test</groupId>
     <artifactId>mediation-test</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.mediation.test</groupId>
   <artifactId>com.mediation.test.capp</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>carbon/application</packaging>
   <name>com.mediation.test.capp</name>
   <description>com.mediation.test.capp</description>
