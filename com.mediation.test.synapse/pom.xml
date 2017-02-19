@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example.com.mediation.test.synapse</groupId>
   <artifactId>com.mediation.test.synapse</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
   <name>com.mediation.test.synapse</name>
   <description>com.mediation.test.synapse</description>
@@ -127,7 +127,7 @@
   <parent>
   	<artifactId>mediation-test</artifactId>
   	<groupId>com.mediation.test</groupId>
-  	<version>1.0.0-SNAPSHOT</version>
+  	<version>1.0.0</version>
   	<relativePath>../pom.xml</relativePath>
   </parent>
 </project>
